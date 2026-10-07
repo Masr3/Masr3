@@ -70,6 +70,8 @@
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=Masr3&locale=en&hide_border=true&border_radius=10&background=0D1117&stroke=1e293b&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="Contribution counter" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Masr3/Masr3/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Masr3/Masr3/output/snake-light.svg" />
