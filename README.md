@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Software+Developer;Backend+with+Java+%26+Spring+Boot;Frontend+with+Angular+%26+TypeScript;AI-assisted+development+%F0%9F%A4%96" alt="Typing SVG" /></a>
 
 <p>
-  <img src="https://img.shields.io/badge/📍_Santo_Domingo,_Dominican_Republic-1e293b?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍_Punta_Cana,_Dominican_Republic-1e293b?style=flat-square" />
 </p>
 
 </div>
@@ -57,7 +57,7 @@
 | Project | Stack |
 |:--|:--|
 | 🏝️ [**TurisLocalRD**](https://github.com/Masr3/TurisLocalRD) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| 🏢 [**oriontek-client-management**](https://github.com/Masr3/oriontek-client-management) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) |
+z
 | 💰 [**gestor-prestamos**](https://github.com/Masr3/gestor-prestamos) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | 🚦 [**agente-transito**](https://github.com/Masr3/agente-transito) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | 💬 [**DatingApp**](https://github.com/Masr3/DatingApp) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
