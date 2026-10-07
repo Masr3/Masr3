@@ -64,4 +64,18 @@
 
 </div>
 
+---
+
+### 🐍 Daily Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Masr3/Masr3/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Masr3/Masr3/output/snake-light.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Masr3/Masr3/output/snake-dark.svg" />
+</picture>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
