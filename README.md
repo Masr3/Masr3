@@ -57,7 +57,6 @@
 | Project | Stack |
 |:--|:--|
 | 🏝️ [**TurisLocalRD**](https://github.com/Masr3/TurisLocalRD) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-z
 | 💰 [**gestor-prestamos**](https://github.com/Masr3/gestor-prestamos) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | 🚦 [**agente-transito**](https://github.com/Masr3/agente-transito) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | 💬 [**DatingApp**](https://github.com/Masr3/DatingApp) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
